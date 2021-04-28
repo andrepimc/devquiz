@@ -1,5 +1,3 @@
-import 'dart:html';
-import 'package:DevQuiz/challenge/widgets/quiz/quiz_widget.dart';
 import 'package:DevQuiz/core/app_colors.dart';
 import 'package:DevQuiz/home/home_state.dart';
 import 'package:DevQuiz/home/widgets/appbar/app_bar_widget.dart';
